@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "name": "paulogdm.com-redirect",
+  "routes": [
+    {
+      "src": "/(.*)",
+      "status": 301,
+      "headers": { "Location": "https://paulogdm.com/$1" }
+    } 
+ ]
+}
