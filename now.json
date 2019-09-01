@@ -1,6 +1,7 @@
 {
   "version": 2,
   "name": "paulogdm.com-redirect",
+  "alias": "www.paulogdm.com",
   "routes": [
     {
       "src": "/(.*)",
