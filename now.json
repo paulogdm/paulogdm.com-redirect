@@ -1,7 +1,5 @@
 {
-  "version": 2,
   "name": "paulogdm.com-redirect",
-  "alias": ["www.paulogdm.com", "paulogdm-redirect.now.sh"],
   "routes": [
     {
       "src": "/(.*)",
